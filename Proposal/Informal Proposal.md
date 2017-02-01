@@ -1,5 +1,9 @@
 # Comparative Analysis of AI models for team with goal of survival #
 
+Xiangqing Ding(xding3), Zifan Nan(znan), Wenxuan Zhu(wzhu10)
+
+CSC584, Spring 2017
+
 ## Problem Statement ##
 
 AI models for team is an interesting subject. But that might be too general for our porject. We would like to evaluate different methods for a group of agents, in an environment where the survival of the team is the goal. More specifically, We would like to compare centralized approaches(e.g. there is a leader in the group) to decentralized approaches(e.g. acting individually but cooperatively).
@@ -16,17 +20,20 @@ And of course, there is some necessary AI needed like path-finding, decision of 
 
 Question we are interested in are:
 
-- Is decentralized methods superior centralized methods?
+- Is centralized methods superior to decentralized methods?
 - which one of these looks better?
 
 ## Evaluation Method ##
 
 Obvious metric for evaluation is time of survival: By using which methods can a team surivive the enivronment is the most amount of time. Another thought is to have 2 AI teams using different methods go against each other, but that would add to the complexity. We could aslo use the survival rate (survival times/times of encountering enemies) and winning rate(times of beating enemies/times of fighting with enemies) of AI. Both of them reflects the success of decision making, and the second one specifically presents how smart the AI fighting skills are.
-Another metric would be to ask people to play against AI, and survey about how do they feel, since intelligent of a game AI could be a subjective subject.
+
+Another way to evaluate would be to ask people to play against AI, and survey about how do they feel, since intelligent of a game AI could be a subjective subject.
 Other evaluation metrics exist that are better-targeted at specific applications.
 
 ## Importance ##
-We can see in common games, that difficulties are achieved by making enemy stats stronger.
+In most games difficulties are achieved by making enemy stats stronger. We are interested in making it difficult by making AI looks more intelligent and characteristic.
+
+
 
 ## didn't use
 
