@@ -1,7 +1,6 @@
 # Comparative Analysis of AI models for team with goal of survival #
 
-Xiangqing Ding(xding3), Zifan Nan(znan), Wenxuan Zhu(wzhu10)
-
+Xiangqing Ding(xding3), Zifan Nan(znan), Wenxuan Zhu(wzhu10),
 CSC584, Spring 2017
 
 ## Problem Statement ##
@@ -11,17 +10,10 @@ AI models for team is an interesting subject. But that might be too general for 
 ## Techniques Involved ##
 
 Many AI techniques are involved in this project. 
-
 For decentralized methods, our thoughts is there are many levels of communication. Level-1 self-interested; level-2 sharing useful intel; level-3 sharing stats and maybe form tactics accordingly and so on with each level more information is shared.
+For centralized methods, our thoughts is maybe decision tree, machine learning techniques, state machines, game tree. And of course, there is some necessary AI needed like path-finding, decision of fight or flight and so on. 
 
-For centralized methods, our thoughts is maybe decision tree, machine learning techniques, state machines, game tree.
-
-And of course, there is some necessary AI needed like path-finding, decision of fight or flight and so on. 
-
-Question we are interested in are:
-
-- Is centralized methods superior to decentralized methods?
-- which one of these looks better?
+Question we are interested in are: Is centralized methods superior to decentralized methods? which one of these looks better?
 
 ## Evaluation Method ##
 
@@ -31,7 +23,8 @@ Another way to evaluate would be to ask people to play against AI, and survey ab
 Other evaluation metrics exist that are better-targeted at specific applications.
 
 ## Importance ##
-In most games difficulties are achieved by making enemy stats stronger. We are interested in making it difficult by making AI looks more intelligent and characteristic.
+
+In most games difficulties are achieved by making enemy stats stronger. We are interested in making it difficult by making AI looked more intelligent and characteristic. 
 
 
 
