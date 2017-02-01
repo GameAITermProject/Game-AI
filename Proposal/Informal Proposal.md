@@ -1,3 +1,4 @@
+
 # Characteristic AI #
 
 ## Problem Statement ##
@@ -23,3 +24,4 @@ The project could also be evaluated by the survival rate (survival times/times o
 
 ## Importance ##
 For the most significant, this project allows game AI to make reasonable choice and actions, which looks more intelligent and characteristic. In addition, AI with different characters provides player and the game with more possibilities. 
+
