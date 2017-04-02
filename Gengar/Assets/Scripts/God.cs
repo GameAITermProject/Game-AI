@@ -36,8 +36,5 @@ public class God : MonoBehaviour {
 	int getGoodRand() {
 		return Random.Range (-25, 25);
 	}
-	// Update is called once per frame
-	//	void Update () {
-	//		
-	//	}
+
 }
